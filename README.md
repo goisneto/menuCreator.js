@@ -1,6 +1,6 @@
 menuCreator.js
 ==============
-/* Powered by GoisNeto
+Powered by GoisNeto
    Using: 
    	Functions:
 		InitMenuVar(LineHeight, Speed[, Id]); //To initVars and set as default. Use Id to specify you Menu.
@@ -24,5 +24,4 @@ menuCreator.js
 		$("#menu").addMenu({"Home": "http://yoursite.com/"});
 		$("#menu").addMenu("Menu", {"Galery": "http://yoursite.com/Galery/", "Videos": "http://yoursite.com/Galery/"}, 30, 2);
 	All var change in InitMenuVar() or $("#menu").addMenu(..., ..., !!!, !!!) set defaults;
-*/
 Simply JS to create html5 Menus
