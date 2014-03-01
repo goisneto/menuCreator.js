@@ -1,6 +1,5 @@
 Powered by GoisNeto
 ===================
-
 Functions:
 ----------
 #### InitMenuVar(LineHeight, Speed[, menuToUp = true, menuRow = true, Id]); 
@@ -32,4 +31,6 @@ Sample Code:
 		$("#menu").addMenu("Menu", {"Galery": "http://yoursite.com/Galery/", "Videos": "http://yoursite.com/Galery/"});
 ```
 
+
+##### GitHub IO Sample Page: http://goisneto.github.io/menuCreator.js
 ##### Simply JS to create html5 Menus
